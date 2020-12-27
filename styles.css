@@ -226,7 +226,7 @@ img {
 input[type="text"], input[type="email"],
 textarea {
     padding: 1rem 0.5rem;
-    margin-bottom: 1rem;
+    margin: 1rem 0;
 }
 
 #name,  #email, #subject, #message{
